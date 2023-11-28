@@ -6,7 +6,7 @@ PCP
 </p>
 
 *   🧠 Sou formado em análise e desenvolvimento de sistemas(ADS)
-*   🤠 Cursando Data analytics na FIAP
+*   🤠 Cursando Pós graduação Data analytics na FIAP
 *   😣 Preciso melhorar esse ReadMe 
                     
 
