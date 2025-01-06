@@ -6,7 +6,7 @@ Matheus Pereira
 </p>
 
 *   🧠 Sou formado em análise e desenvolvimento de sistemas(ADS)
-*   🤠 Cursando Pós graduação/Data analytics/FIAP
+*   🤠 Pós graduação/Data analytics/FIAP
   
                     
 
